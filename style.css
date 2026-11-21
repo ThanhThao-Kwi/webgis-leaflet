@@ -1,0 +1,24 @@
+
+/* Thiết lập giao diện chung */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+/* Thiết lập tiêu đề */
+h2 {
+    color: #333;
+    margin: 20px;
+}
+
+/* Thiết lập kích thước bản đồ */
+#map {
+    height: 550px;
+    width: 90%;
+    margin: 0 auto;
+    border: 2px solid #333;
+    border-radius: 8px;
+}
